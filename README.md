@@ -1,7 +1,7 @@
 <!-- MYPRACTICE2 -->
 # loremipsum
 
-### >**`Ejercicio 2 - GitHub con bash`** ###
+>### **`Ejercicio 2 - GitHub con bash`** ###
 ---
 
 1. *Crea un nuevo repositorio público de github "loremipsum"*
